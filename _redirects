@@ -1,0 +1,7 @@
+/form/* https://briskforms.com/go/70756a7102ea14d8aea17dcb8180c223 200
+/api/*  https://hackesta.pythonanywhere.com/api/:splat  200
+/static/* https://hackesta.pythonanywhere.com/static/:splat 200
+/demo/* https://haideralipunjabi.github.io/:splat 200
+/p5/* https://haideralipunjabi.github.io/p5-projects/:splat 200
+/photography/* https://haideralipunjabi.com/photography:splat 200
+/resume/* https://haideralipunjabi.com/resume:splat 200

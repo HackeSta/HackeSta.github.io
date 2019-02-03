@@ -1,0 +1,80 @@
+span#materialquote::before {
+    content: '\e253';
+    background-color: #00e676;
+
+}
+
+.icon.material::before {
+    font-family: 'Material Icons';
+    color: #ffffff;
+}
+
+.icon.custom::before {
+    content: '\2008';
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+span#kashurlugat::before {
+    background-image: url('/assets/media/logo_kashurlugat.svg');
+    background-color: #2196f3;
+}
+
+span#ghuraralhikam::before {
+    background-image: url('/assets/media/logo_ghuraralhikam.svg');
+    background-color: #f44336;
+}
+
+span#tweet2pic::before {
+    background-image: url('/assets/media/logo_tweet2pic.svg');
+    background-color: #2196f3;
+}
+
+span#rgbcolorgame::before {
+    content: 'RGB';
+    color: #ffffff;
+    background-color: #009688;
+}
+
+span#kashmiristickers::before {
+    background-image: url('/assets/media/logo_kashmiristickers.svg');
+    background-color: #ffffff;
+}
+
+.icon.major.no-borders {
+    border: none;
+
+}
+
+.icon.major.no-borders:before {
+    border: none;
+    font-size: 4rem;
+}
+
+.full-width {
+    width: 100%;
+}
+
+ul.full-width>li {
+    margin: 0 0 0 0 !important;
+    text-decoration: none;
+    width: 100%;
+}
+
+.no-decoration a {
+    border-bottom: none;
+}
+
+ul.no-decoration {
+    list-style: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.white {
+    color: #ffffff;
+}
