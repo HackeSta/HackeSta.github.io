@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 84.532785 42.26559"
+   height="42.265591mm"
+   width="84.532784mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-48.532904,-111.3204)"
+     id="layer1">
+    <path
+       d="m 48.532904,132.45319 q 0.2032,-9.04239 6.1468,-14.98599 5.9436,-5.9436 14.986,-6.1468 9.0424,0.2032 14.986,6.1468 5.9436,5.9436 6.1468,14.98599 -0.2032,9.0424 -6.1468,14.986 -5.9436,5.9436 -14.986,6.1468 -9.0424,-0.2032 -14.986,-6.1468 -5.9436,-5.9436 -6.1468,-14.986 z m 16.8656,10.6172 10.6172,-10.6172 -10.6172,-10.61719 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path44" />
+    <path
+       d="m 118.28289,140.88599 h -4.2672 V 124.0204 h 4.2672 z m -8.4328,0 h -4.2672 V 124.0204 h 4.2672 z m 2.0828,-29.56559 q -9.0424,0.2032 -14.986,6.1468 -5.9436,5.9436 -6.1468,14.98599 0.2032,9.0424 6.1468,14.986 5.9436,5.9436 14.986,6.1468 9.0424,-0.2032 14.986,-6.1468 5.9436,-5.9436 6.1468,-14.986 -0.2032,-9.04239 -6.1468,-14.98599 -5.9436,-5.9436 -14.986,-6.1468 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path46" />
+  </g>
+</svg>

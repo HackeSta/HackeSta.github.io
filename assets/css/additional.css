@@ -43,6 +43,19 @@ span#kashmiristickers::before {
     background-color: #ffffff;
 }
 
+span#polybar-kdeconnect::before {
+    background-image: url('/assets/media/logo_polybarkdeconnect.svg');
+    background-color: #efefef;
+}
+
+span#polybar-browsermediacontrol::before {
+    background-image: url('/assets/media/logo_polybarbrowsermediacontrol.svg');
+    background-color: #efefef;
+}
+span#dbsscouterfont::before {
+    background-image: url('/assets/media/logo_dbsscouterfont.svg');
+    background-color: #efefef;
+}
 .icon.major.no-borders {
     border: none;
 
