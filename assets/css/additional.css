@@ -56,6 +56,11 @@ span#dbsscouterfont::before {
     background-image: url('/assets/media/logo_dbsscouterfont.svg');
     background-color: #efefef;
 }
+span#hpffrec::before {
+    background-image: url('/assets/media/logo_hpffrec.png');
+    background-size: contain;
+    background-color: #efefef;
+}
 .icon.major.no-borders {
     border: none;
 
