@@ -60,6 +60,14 @@ span#hpffrec::before {
     background-image: url('/assets/media/logo_hpffrec.png');
     background-size: contain;
     background-color: #efefef;
+
+}
+span#covidkashmir::before {
+    background-image: url('/assets/media/logo_covidkashmir.svg');
+    background-size: contain;
+    background-color: #ffffff;
+    background-origin: content-box;
+    padding: 20px;
 }
 .icon.major.no-borders {
     border: none;
