@@ -69,6 +69,27 @@ span#covidkashmir::before {
     background-origin: content-box;
     padding: 20px;
 }
+span#iftarkar::before {
+    background-image: url('/assets/media/logo_iftarkar.svg');
+    background-size: contain;
+    background-color: #131836;
+    background-origin: content-box;
+    padding: 20px;
+}
+span#iar_asa::before {
+    background-image: url('/assets/media/logo_iar_asa.jpeg');
+    background-size: cover;
+    background-color: #FFFFFF;
+    background-origin: content-box;
+    padding: 0px;
+}
+span#iar_ke::before {
+    background-image: url('/assets/media/logo_iar_ke.png');
+    background-size: contain;
+    background-color: #FFFFFF;
+    background-origin: content-box;
+    padding: 0px;
+}
 .icon.major.no-borders {
     border: none;
 
@@ -96,11 +117,13 @@ ul.full-width>li {
 ul.no-decoration {
     list-style: none;
 }
-
 .hidden {
     display: none;
 }
 
 .white {
     color: #ffffff;
+}
+li p {
+    min-height: 60px;
 }
