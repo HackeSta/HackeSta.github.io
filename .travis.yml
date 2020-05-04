@@ -7,5 +7,9 @@ install:
   - pip install -r .travis/requirements.txt
 # command to run tests
 script: python .travis/get_data.py
-after_script:
-  - bash .travis/push.sh
+deploy:
+  provider: netlify
+  site: $NETLIFY_SITE
+  auth: $NETLIFY_AUTH
+  dir: .
+  edge: true # opt in to dpl v2
